@@ -1,7 +1,9 @@
 ## Hi, I´m Miguel Angel 👋
+![balrog](https://github.com/user-attachments/assets/9b76fe1e-0f5c-444d-a47d-edaf285f39f6)
 <p align="center">
   <img src="./balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
 </p>
+
 
 <h1 align="center">🌐 Portafolio de Desarrollo Web</h1>
 <p align="center">Desarrollador web apasionado por el diseño limpio, el código elegante y las soluciones creativas.</p>
