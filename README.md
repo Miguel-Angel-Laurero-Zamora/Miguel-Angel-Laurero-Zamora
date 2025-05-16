@@ -1,30 +1,21 @@
 ## Hi, I´m Miguel Angel 👋
 
 <p align="center">
-  <img src="assets/balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
+  <img src="Assets/balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
 </p>
-
 
 <h1 align="center">🌐 Portafolio de Desarrollo Web</h1>
 <p align="center">Desarrollador web apasionado por el diseño limpio, el código elegante y las soluciones creativas.</p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
-
 ## 🧰 Tecnologías que uso
-
+- **Desarrollo**
+  - Java
+  - C#
+      
 - **Frontend**
   - HTML5 / CSS3
   - JavaScript (ES6+)
-
+  - Angular
 
 - **Backend**
   - Node.js
@@ -57,9 +48,7 @@ Puedes encontrarme en:
 
 - ✉️ Email: malaureroz@gmail.com  
 - 💼 [LinkedIn] https://www.linkedin.com/in/miguel-%C3%A1ngel-laurero-zamora-11a6191a2/
-- 🌍 [Portafolio Personal](https://tuportafolio.com)
 
 ---
-
 Gracias por visitar 🚀  
 ¡Si te gusta este repositorio, no olvides darle una ⭐ y seguirme!
