@@ -1,4 +1,4 @@
-## Hi, I´m Miguel Angel 👋
+## Hi, I´m Miguel Angel, coder, developer and geek full-time 👋
 
 <p align="center">
   <img src="Assets/balrog.png" alt="You shall not pass until the syntax error is fixed" width="250"/>
