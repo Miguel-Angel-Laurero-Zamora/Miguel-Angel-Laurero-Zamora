@@ -31,10 +31,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [Nombre del proyecto 1](#) | Breve descripción del proyecto | React, Node.js, MongoDB |
-| [Nombre del proyecto 2](#) | Breve descripción del proyecto | HTML, CSS, JavaScript |
-| [Nombre del proyecto 3](#) | Breve descripción del proyecto | Next.js, Tailwind CSS |
-
+| Aplicación Fantasy Tenis | Aplicación de Java estilo Fantasy sobre tenis | Java, MySQL |
 > Puedes ver cada proyecto en sus respectivas carpetas dentro de este repositorio.
 
 ## 🎯 Objetivo
