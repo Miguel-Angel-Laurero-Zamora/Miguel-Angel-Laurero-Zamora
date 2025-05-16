@@ -10,23 +10,19 @@
 ## 🧰 Tecnologías que uso
 - **Desarrollo**
   - Java
-  - C#
-      
+  - C#  
 - **Frontend**
   - HTML5 / CSS3
   - JavaScript (ES6+)
   - Angular
-
 - **Backend**
   - Node.js
   - MySQL
   - MongoDB
-
 - **Herramientas y DevOps**
   - Git & GitHub
   - Visual Studio Code
   - Eclipse
-
 ## 📁 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
