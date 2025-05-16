@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi, I´m Miguel Angel 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/files/main/anime-programmer-banner.png" alt="Anime Developer Banner" width="600"/>
+</p>
 
-<!--
-**Miguel-Angel-Laurero-Zamora/Miguel-Angel-Laurero-Zamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌐 Portafolio de Desarrollo Web</h1>
+<p align="center">Desarrollador web apasionado por el diseño limpio, el código elegante y las soluciones creativas.</p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,13 +13,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-# 🌐 Portafolio de Desarrollo Web
-
-¡Bienvenido/a a mi repositorio de desarrollo web! 🚀  
-Aquí encontrarás una colección de proyectos, prácticas y recursos que he creado mientras aprendo y trabajo con tecnologías modernas del desarrollo web.
 
 ## 🧰 Tecnologías que uso
 
