@@ -24,19 +24,17 @@ Aquí encontrarás una colección de proyectos, prácticas y recursos que he cre
 - **Frontend**
   - HTML5 / CSS3
   - JavaScript (ES6+)
-  - React.js / Next.js
-  - Tailwind CSS / Bootstrap
+
 
 - **Backend**
-  - Node.js / Express.js
-  - RESTful APIs
-  - MongoDB / PostgreSQL
+  - Node.js
+  - MySQL
+  - MongoDB
 
 - **Herramientas y DevOps**
   - Git & GitHub
   - Visual Studio Code
-  - Docker (básico)
-  - Vercel / Netlify
+  - Eclipse
 
 ## 📁 Proyectos destacados
 
