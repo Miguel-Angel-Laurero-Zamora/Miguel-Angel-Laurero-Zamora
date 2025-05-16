@@ -1,6 +1,6 @@
 ## Hi, I´m Miguel Angel 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/anime-programmer-banner.png" alt="Anime Developer Banner" width="600"/>
+  <img src="./balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
 </p>
 
 <h1 align="center">🌐 Portafolio de Desarrollo Web</h1>
