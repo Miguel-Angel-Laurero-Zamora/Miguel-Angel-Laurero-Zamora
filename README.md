@@ -1,7 +1,7 @@
 ## Hi, I´m Miguel Angel 👋
 
 <p align="center">
-  <img src="./balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
+  <img src="Assets/balrog.png" alt="You shall not pass until the syntax error is fixed" width="500"/>
 </p>
 
 
